@@ -1,0 +1,9 @@
+{
+  "LiferayTheme": {
+    "deployPath": "E:/bundles/deploy",
+    "themeName": "inspinia-theme",
+    "appServerPathTheme": "E:/bundles/tomcat-8.0.32/webapps/inspinia-theme",
+    "deployed": false,
+    "appServerPath": "E:/bundles/tomcat-8.0.32"
+  }
+}
